@@ -1,0 +1,417 @@
+{
+	"Portfolio_Highlights": [
+        {
+            "Investment_Value": "621,181,832",
+            "Capital_Invested": "500,000,000",
+            "MTD": "3.20%",
+            "QTD": "4.40%",
+            "YTD": "4.-2%",
+            "Since_Inception": "7.30%",
+            "Income":	"27,079,738",
+            "Expenses":	"1,702,766",
+            "Investible_Cash" :  "1,702,766",
+            "Withdrawable_Limit": "27,079,738"
+        }
+    ],
+	"customers":[
+		{
+			"clientName":"Albus Dumbledore",
+			"portfolio":[
+				{
+					"portfolioName": "Portfolio 1 Harry",
+					"portfolioNumber": "PF100HP"
+				},
+				{
+					"portfolioName": "Portfolio 2 Hagrid",
+					"portfolioNumber": "PF200H"
+				}
+			],
+			"bankAccounts":[
+				{
+					"bankAccName": "Albus Wulfric Dumbledore",
+					"bank": "HDFC Bank"
+				},
+				{
+					"bankAccName": "Albus Wulfric Dumbledore",
+					"bank": "ICICI Bank"
+				}
+			],
+			"jointHolders":[
+				{
+					"name": "Aberforth Dumbledore",
+					"age": 72
+				},
+				{
+					"name": "Ariana Dumbledore",
+					"age": 5
+				}
+				
+			],
+			"accountName": "abcd",
+			"accountNumber": "assdsd",
+			"addressDetails": "Behind stone Gargoyle, Hogwarts Castle, England"
+		},
+		{
+			"clientName":"Harry Potter",
+			"portfolio":[
+				{
+					"portfolioName": "Portfolio 1 Harry before Voldy",
+					"portfolioNumber": "PF100HP"
+				},
+				{
+					"portfolioName": "Portfolio 2 HP",
+					"portfolioNumber": "PF200H"
+				}
+			],
+			"bankAccounts":[
+				{
+					"bankAccName": "Harry James Potter",
+					"bank": "HDFC Bank"
+				},
+				{
+					"bankAccName": "Harry James Potter",
+					"bank": "ICICI Bank"
+				}
+			],
+			"jointHolders":[
+				{
+					"name": "Ginny Weasley",
+					"age": 25
+				}
+				
+			],
+			"accountName": "abcd",
+			"accountNumber": "assdsd",			
+			"addressDetails": "Cupboard under the stairs, 21 Privet Drive, London"
+
+		}
+	],
+	
+	"customer1":[
+		{
+			"customerId": 1,
+			"customerName": "Albus Dumbeldore",
+			"RM":"Ron Weasley",
+			"profilePic":"app/core/img/user_img.png",
+			"addressDetails": {
+				"name": "Albus Dumbeldore",
+				"emailId": "albus@hogwarts.com",
+				"phoneNo": "1234567890",
+				"address":"Behind stone Gargoyle, Hogwarts Castle, England"
+			},
+			"familyMembers":[
+				{
+					"name": "Aberforth Dumbledore",
+					"relation":"brother",
+					"type": "Agressive",
+					"amount": 30000000
+				},
+				{
+					"name": "Ariana Dumbledore",
+					"relation":"sister",
+					"type": "Conservative",
+					"amount": 30000000
+				}
+			],
+			"customerAccount":[
+				{
+					"consolidated": true,
+					"customerAccountNumber": "PRIMARY",
+					"highlights":[
+						{
+							"title": "Investment Value",
+							"value": 654321,
+							"icon": ""
+						},
+						{
+							"title": "Investment Value",
+							"value": 654321,
+							"icon": ""
+
+						},
+						{
+							"title": "Income",
+							"value": 654321,
+							"icon": ""
+
+						},
+						{
+							"title": "Expenses",
+							"value": 654321,
+							"icon": ""
+
+						}
+					],
+					"portfolioDetails":{
+						"portfolioNumber" : "PN1000",
+						"portfolioName": "Albus Portfolio"
+					},
+					"bankAccounts":[
+						{
+							"accountNumber": 7382947,
+							"bankName": "Canara Bank",
+							"amount": 20000000
+						},
+						{
+							"accountNumber": 1234567,
+							"bankName": "ICICI Bank",
+							"amount": 40000000
+						}
+					],
+					"jointHolders":[
+						{
+							"name": "Harry Potter"
+						},
+						{
+							"name": "Aberfoth Dumbledore"
+						}
+					]
+				},
+				{
+					"consolidated": false,
+					"customerAccountNumber": "C1AD01",
+					"highlights":[
+						{
+							"title": "Investment Value",
+							"value": 654321,
+							"icon": ""
+						},
+						{
+							"title": "Investment Value",
+							"value": 654321,
+							"icon": ""
+
+						},
+						{
+							"title": "Income",
+							"value": 654321,
+							"icon": ""
+
+						},
+						{
+							"title": "Expenses",
+							"value": 654321,
+							"icon": ""
+
+						}
+					],
+					"portfolioDetails":{
+						"portfolioNumber" : "PN1000",
+						"portfolioName": "Albus Portfolio"
+					},
+					"bankAccounts":[
+						{
+							"accountNumber": 7382947,
+							"bankName": "Canara Bank",
+							"amount": 20000000
+						},
+						{
+							"accountNumber": 7382947,
+							"bankName": "Canara Bank",
+							"amount": 20000000
+						}
+					],
+					"jointHolders":[
+						{
+							"name": "Harry Potter"
+						},
+						{
+							"name": "Aberfoth Dumbledore"
+						}
+					]
+				},
+				{
+					"consolidated": false,
+					"customerAccountNumber": "C1AD01",
+					"highlights":[
+						{
+							"title": "Investment Value",
+							"value": 654321,
+							"icon": ""
+						},
+						{
+							"title": "Investment Value",
+							"value": 654321,
+							"icon": ""
+
+						},
+						{
+							"title": "Income",
+							"value": 654321,
+							"icon": ""
+
+						},
+						{
+							"title": "Expenses",
+							"value": 654321,
+							"icon": ""
+
+						}
+					],
+					"portfolioDetails":{
+						"portfolioNumber" : "PN1000",
+						"portfolioName": "Albus Portfolio"
+					},
+					"bankAccounts":[
+						{
+							"accountNumber": 7382947,
+							"bankName": "Canara Bank",
+							"amount": 20000000
+						},
+						{
+							"accountNumber": 7382947,
+							"bankName": "Canara Bank",
+							"amount": 20000000
+						}
+					],
+					"jointHolders":[
+						{
+							"name": "Harry Potter"
+						},
+						{
+							"name": "Aberfoth Dumbledore"
+						}
+					]
+				}
+			]
+			
+		},
+		{
+			"customerId": 2,
+			"customerName": "Harry Potter",
+			"RM":"Armando Dippet",
+			"profilePic":"app/core/img/user_img.png",
+			"addressDetails": {
+				"name": "Harry Potter",
+				"emailId": "harry@potter.com",
+				"phoneNo": "+1 234567890",
+				"address":"Cupboard beneath the stairs, 21st Privet Drive, next to Magnolia Crescent, London"
+			},
+			"familyMembers":[
+				{
+					"name": "James Potter",
+					"relation":"Father",
+					"type": "Agressive",
+					"amount": 30000000
+				},
+				{
+					"name": "Lily Potter",
+					"relation":"Mother",
+					"type": "Conservative",
+					"amount": 30000000
+				}
+			],
+			"customerAccount":[
+				{
+					"consolidated": true,
+					"customerAccountNumber": "PRIMARY",
+					"highlights":[
+						{
+							"title": "Investment Value",
+							"value": 654321,
+							"icon": ""
+						},
+						{
+							"title": "Investment Value",
+							"value": 654321,
+							"icon": ""
+
+						},
+						{
+							"title": "Income",
+							"value": 654321,
+							"icon": ""
+
+						},
+						{
+							"title": "Expenses",
+							"value": 654321,
+							"icon": ""
+
+						}
+					],
+					"portfolioDetails":{
+						"portfolioNumber" : "PN1000",
+						"portfolioName": "Albus Portfolio"
+					},
+					"bankAccounts":[
+						{
+							"accountNumber": "HP1234",
+							"bankName": "Gringotts Bank",
+							"amount": 987000000
+						},
+						{
+							"accountNumber": 1234567,
+							"bankName": "Kotak Mahindra Bank",
+							"amount": 58900000
+						}
+					],
+					"jointHolders":[
+						{
+							"name": "Harry Potter"
+						},
+						{
+							"name": "Aberfoth Dumbledore"
+						}
+					]
+				},
+				{
+					"consolidated": false,
+					"customerAccountNumber": "C1AD01",
+					"highlights":[
+						{
+							"title": "Investment Value",
+							"value": 654321,
+							"icon": ""
+						},
+						{
+							"title": "Investment Value",
+							"value": 654321,
+							"icon": ""
+
+						},
+						{
+							"title": "Income",
+							"value": 654321,
+							"icon": ""
+
+						},
+						{
+							"title": "Expenses",
+							"value": 654321,
+							"icon": ""
+
+						}
+					],
+					"portfolioDetails":{
+						"portfolioNumber" : "PN1000",
+						"portfolioName": "Albus Portfolio"
+					},
+					"bankAccounts":[
+						{
+							"accountNumber": 7382947,
+							"bankName": "Canara Bank",
+							"amount": 20000000
+						},
+						{
+							"accountNumber": 7382947,
+							"bankName": "Canara Bank",
+							"amount": 20000000
+						}
+					],
+					"jointHolders":[
+						{
+							"name": "Harry Potter"
+						},
+						{
+							"name": "Aberfoth Dumbledore"
+						}
+					]
+				}
+			]
+			
+		}
+	]
+	
+	
+}

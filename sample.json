@@ -1,0 +1,26 @@
+dashboard:
+{
+	networth:[{"consolidated":"Y",client_Account_id:"PRIMARY",invvalue:"65465465",capitalInvested:"3435445",income:"3443676",expenses:"35655666"}
+	,{"consolidated":"N",client_Account_id:"C12334",invvalue:"65465465",capitalInvested:"3435445",income:"3443676",expenses:"35655666"}
+	,{"consolidated":"N",client_Account_id:"C12335",invvalue:"65465465",capitalInvested:"3435445",income:"3443676",expenses:"35655666"}
+	,{"consolidated":"N",client_Account_id:"C12336",invvalue:"65465465",capitalInvested:"3435445",income:"3443676",expenses:"35655666"}
+	,{"consolidated":"N",client_Account_id:"C12338",invvalue:"65465465",capitalInvested:"3435445",income:"3443676",expenses:"35655666"}
+	]
+	,
+	
+	Linkedcli:[{"consolidated":"Y",client_Account_id:"PRIMARY",invvalue:"65465465",capitalInvested:"3435445",income:"3443676",expenses:"35655666"}
+	,{"consolidated":"N",client_Account_id:"C12334",invvalue:"65465465",capitalInvested:"3435445",income:"3443676",expenses:"35655666"}
+	,{"consolidated":"N",client_Account_id:"C12335",invvalue:"65465465",capitalInvested:"3435445",income:"3443676",expenses:"35655666"}
+	,{"consolidated":"N",client_Account_id:"C12336",invvalue:"65465465",capitalInvested:"3435445",income:"3443676",expenses:"35655666"}
+	,{"consolidated":"N",client_Account_id:"C12338",invvalue:"65465465",capitalInvested:"3435445",income:"3443676",expenses:"35655666"}
+	]
+	
+	Bank_account_details:[{Client_acct:"C12335",bank name":"BOA","ac_no":"10000","currency":"USD"}
+	,{Client_acct:"C12335",bank name":"BOA","ac_no":"10000","currency":"USD"}
+	,{Client_acct:"C12335",bank name":"BOA","ac_no":"10000","currency":"USD"}
+	,{Client_acct:"C12335",bank name":"BOA","ac_no":"10000","currency":"USD"}
+	,{Client_acct:"C12335",bank name":"BOA","ac_no":"10000","currency":"USD"}
+	]
+	
+	
+}

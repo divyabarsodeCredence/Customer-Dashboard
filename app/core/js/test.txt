@@ -1,0 +1,38 @@
+
+$.ajax({
+    url: "template/profile_dashboard.html",
+    success: function(data) {
+        $('#profile-dashboard').html(data);
+        $.ajax({
+            url: "template/customer_profile_card.html",
+            success: function(data) {
+                $('#customer_profile_card_data').html(data);
+            }
+        });
+        $.ajax({
+            url: "template/family_tree.html",
+            success: function(data) {
+                $('#family_tree_data').html(data);
+            }
+        });
+
+        $.ajax({
+            url: "template/portfolio_highlights.html",
+            success: function(data) {
+                $('#portfolio-highlights-data').html(data);
+            }
+        });
+        
+        $.ajax({
+            url: "http://localhost:3000/Portfolio_Highlights",
+            success: function(data) {
+                console.log(data);
+            }
+        });
+
+    }
+});
+
+
+
+
